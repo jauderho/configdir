@@ -2,7 +2,7 @@ package configdir_test
 
 import (
 	"encoding/json"
-	"github.com/shibukawa/configdir"
+	"github.com/jauderho/configdir"
 	"io/ioutil"
 	"log"
 	"net/http"
